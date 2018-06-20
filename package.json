@@ -1,6 +1,8 @@
 {
   "name": "vue-markdown-content",
-  "version": "1.0.0",
+  "description": "Render Markdown content with support for GitHub Emoji!",
+  "keywords": ["vue", "markdown", "emoji"],
+  "version": "1.0.1",
   "main": "dist/vue-markdown-content.umd.js",
   "module": "dist/vue-markdown-content.esm.js",
   "unpkg": "dist/vue-markdown-content.min.js",
